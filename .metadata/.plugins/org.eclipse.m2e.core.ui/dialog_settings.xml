@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\KARTIK\WorkSpace\spring_ws\FirstRestAPI_Demo1"/>
+			<item value="C:\Users\KARTIK\WorkSpace\spring_ws\JSON_Jackson_App"/>
+			<item value="C:\Users\KARTIK\WorkSpace\spring_ws\Bank_Application_UsingWebMVC\src\main\java\com\jfs\backend\controller\HomeController.java"/>
+			<item value="C:\Users\KARTIK\WorkSpace\spring_ws\Bank_Application_UsingWebMVC"/>
+			<item value="C:\Users\KARTIK\WorkSpace\spring_ws\SpringBootDemo\src\main\java\com\example\demo\SpringBootDemoApplication.java"/>
+			<item value="C:\Users\KARTIK\WorkSpace\spring_ws\Spring_AutoWiring_Demo"/>
+			<item value="C:\Users\KARTIK\WorkSpace\spring_ws\Spring_Bean_Scope_Demo"/>
+			<item value="C:\Users\KARTIK\WorkSpace\spring_ws\First_Spring_Application_Demo"/>
+			<item value="C:\Users\KARTIK\WorkSpace\spring_ws\First_Spring_Application_Demo\src\main\java\Spring.xml"/>
+			<item value="C:\Users\KARTIK\WorkSpace\spring_ws\SpringDemo1"/>
+			<item value="C:\Users\KARTIK\WorkSpace\spring_ws\First_Spring_App"/>
+			<item value="C:\Users\KARTIK\WorkSpace\spring_ws\First_Spring_App\src\main\java\Spring_Beans.xml"/>
+			<item value="C:\Users\KARTIK\WorkSpace\spring_ws\Bill_Paymen_App\src\jfs\backend\Main.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="ow"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="GitHubApp1"/>
+			<item value="com.demo"/>
+			<item value="jfs.backend"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="demo1"/>
+			<item value="JSON_GSON_App"/>
+			<item value="JSON_Jackson_App"/>
+			<item value="JAX_B_Demo_App"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

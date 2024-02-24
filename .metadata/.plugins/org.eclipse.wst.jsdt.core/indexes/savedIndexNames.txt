@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\KARTIK\WorkSpace\spring_ws\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3806123071.index
+2257318908.index
+952586607.index
+2319278474.index
+581501599.index

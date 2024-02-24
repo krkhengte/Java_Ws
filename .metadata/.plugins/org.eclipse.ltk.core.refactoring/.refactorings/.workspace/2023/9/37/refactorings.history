@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;SpringBoot_AutowiringWithAnnotation-JDBC&apos;" deleteContents="false" description="Delete resource &apos;SpringBoot_AutowiringWithAnnotation-JDBC&apos;" element1="/SpringBoot_AutowiringWithAnnotation-JDBC" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1694669452652"/>&#x0A;<refactoring comment="Delete resource &apos;SpringBoot_JDBC_Connection&apos;" deleteContents="false" description="Delete resource &apos;SpringBoot_JDBC_Connection&apos;" element1="/SpringBoot_JDBC_Connection" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1694671058146"/>
+</session>

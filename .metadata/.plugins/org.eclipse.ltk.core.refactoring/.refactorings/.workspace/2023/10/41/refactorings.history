@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JAX_B_Demo_App&apos; to &apos;XML_JAX_B_Demo_App&apos;" description="Rename resource &apos;JAX_B_Demo_App&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/JAX_B_Demo_App" name="XML_JAX_B_Demo_App" stamp="1697006730650" updateReferences="true"/>
+</session>

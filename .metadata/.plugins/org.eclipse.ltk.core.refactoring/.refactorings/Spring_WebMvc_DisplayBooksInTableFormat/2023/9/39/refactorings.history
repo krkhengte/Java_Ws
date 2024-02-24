@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Spring_WebMvc_DisplayBooksInTableFormat/src/main/webapp/pages/book.jsp&apos; to &apos;books.jsp&apos;" description="Rename resource &apos;book.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/pages/book.jsp" name="books.jsp" stamp="1695976881112" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;User_Management-Application/target/REG-EMAIL-BODY.txt&apos;" deleteContents="false" description="Delete resource &apos;User_Management-Application/target/REG-EMAIL-BODY.txt&apos;" element1="/User_Management-Application/target/REG-EMAIL-BODY.txt" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1706071038187"/>
+</session>

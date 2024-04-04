@@ -1,5 +1,5 @@
-GitRepositoriesView.GitDirectories=C\:\\Users\\KARTIK\\WorkSpace\\spring_ws\\Bank_Application_UsingWebMVC\\.git;C\:\\Users\\KARTIK\\git\\GitDemo\\.git;C\:\\Users\\KARTIK\\WorkSpace\\spring_ws\\NewBlogger_App_With_Swagger3\\.git;
-GitRepositoriesView.GitDirectories.relative=Bank_Application_UsingWebMVC\\.git;C\:\\Users\\KARTIK\\git\\GitDemo\\.git;NewBlogger_App_With_Swagger3\\.git;
+GitRepositoriesView.GitDirectories=C\:\\Users\\KARTIK\\WorkSpace\\spring_ws\\Bank_Application_UsingWebMVC\\.git;C\:\\Users\\KARTIK\\WorkSpace\\spring_ws\\NewBlogger_App_With_Swagger3\\.git;C\:\\Users\\KARTIK\\git\\GitDemo\\.git;C\:\\Users\\KARTIK\\WorkSpace\\spring_ws\\.git;
+GitRepositoriesView.GitDirectories.relative=Bank_Application_UsingWebMVC\\.git;NewBlogger_App_With_Swagger3\\.git;C\:\\Users\\KARTIK\\git\\GitDemo\\.git;.git;
 RepositoryGroups.uuids=
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
